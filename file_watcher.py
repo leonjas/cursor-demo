@@ -64,7 +64,7 @@ class CSVFileHandler(FileSystemEventHandler):
 def main():
     """Main function to set up file watching"""
     csv_file = "student_score.csv"
-    script_file = "usecase2_save.py"
+    script_file = "usecase2_update.py"
     
     # Verify files exist
     if not Path(csv_file).exists():
