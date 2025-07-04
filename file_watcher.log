@@ -1,0 +1,21 @@
+🔍 Watching: /workspace/student_score.csv
+📊 Will run: /workspace/usecase2_save.py
+--------------------------------------------------
+🎯 Running script initially...
+🚀 Running /workspace/usecase2_save.py...
+✅ Script executed successfully!
+Output: Histogram saved as: student_score_histogram_20250704_044231.png
+Total students: 104
+Score range: 1100 - 1600
+
+--------------------------------------------------
+👀 Watching for changes to student_score.csv...
+Press Ctrl+C to stop watching
+🔄 File changed: ./student_score.csv
+🚀 Running /workspace/usecase2_save.py...
+✅ Script executed successfully!
+Output: Histogram saved as: student_score_histogram_20250704_044241.png
+Total students: 105
+Score range: 1100 - 1600
+
+--------------------------------------------------
